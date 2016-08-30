@@ -1,3 +1,6 @@
 [submodule "msdatademopaasgraph"]
 	path = msdatademopaasgraph
 	url = https://github.com/nubomedia/msdatademopaasgraph
+[submodule "arfilterdemopaas"]
+	path = arfilterdemopaas
+	url = https://github.com/nubomedia/arfilterdemopaas
