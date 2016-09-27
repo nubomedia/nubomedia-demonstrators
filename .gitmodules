@@ -7,3 +7,18 @@
 [submodule "nubomedia-magic-mirror"]
 	path = nubomedia-magic-mirror
 	url = https://github.com/nubomedia/nubomedia-magic-mirror
+[submodule "nubomedia-art"]
+	path = nubomedia-art
+	url = https://github.com/pyromobile/nubomedia-art.git
+[submodule "nubomedia-design"]
+	path = nubomedia-design
+	url = https://github.com/pyromobile/nubomedia-design.git
+[submodule "nubomedia-ouatservice-dev"]
+	path = nubomedia-ouatservice-dev
+	url = https://github.com/pyromobile/nubomedia-ouatservice-dev.git
+[submodule "nubomedia-ouatservice-pre"]
+	path = nubomedia-ouatservice-pre
+	url = https://github.com/pyromobile/nubomedia-ouatservice-pre.git
+[submodule "nubomedia-ouatservice"]
+	path = nubomedia-ouatservice
+	url = https://github.com/pyromobile/nubomedia-ouatservice.git
