@@ -1,22 +1,14 @@
-# Nubomedia demonstrators
-
-This project is part of NUBOMEDIA project: [nubomedia.eu][NUBOMEDIA]
-
 [![][NUBOMEDIA Logo]][NUBOMEDIA]
 
-Copyright © 2016 [NUBOMEDIA]. Licensed under [LGPL v2.1 License].
+Copyright © 2016 [NUBOMEDIA]
 
-This repository comprises all the code related to NUBOMEDIA administration and management.
+Nubomedia demonstrators
+=======================
 
-## Components List
+This project comprises all demonstration projects related to NUBOMEDIA.
 
-The NUBOMEDIA demonstrators has the following components:
-
-* NUBOMEDIA arfilterdemopaas
-* NUBOMEDIA msdatademopaasgraph
-* NUBOMEDIA Magic Mirror Demo
-
-# What is NUBOMEDIA
+What is NUBOMEDIA
+-----------------
 
 This project is part of [NUBOMEDIA], which is an open source cloud Platform as a
 Service (PaaS) which makes possible to integrate Real Time Communications (RTC)
@@ -29,37 +21,35 @@ of service deployment, management, and exploitation allowing applications to
 transparently scale and adapt to the required load while preserving QoS
 guarantees.
 
-# Documentation
+Documentation
+-------------
 
 The [NUBOMEDIA] project provides detailed documentation including tutorials,
 installation and [Development Guide].
 
-# Source
+Source
+------
 
-Source code for other NUBOMEDIA projects can be found in the [GitHub NUBOMEDIA Group].
+Source code for other NUBOMEDIA projects can be found in the [GitHub NUBOMEDIA
+Group].
 
-
-# News
+News
+----
 
 Follow us on Twitter @[NUBOMEDIA Twitter].
 
-# Issue tracker
+Issue tracker
+-------------
 
 Issues and bug reports should be posted to [GitHub Issues].
 
+Licensing and distribution
+--------------------------
 
-# Licensing and distribution
+For licensing and distribution, please refer to each of the children submodules.
 
-Software associated to NUBOMEDIA is provided as open source under GNU Library or
-"Lesser" General Public License, version 2.1 (LGPL-2.1). Please check the
-specific terms and conditions linked to this open source license at
-http://opensource.org/licenses/LGPL-2.1. Please note that software derived as a
-result of modifying the source code of NUBOMEDIA software in order to fix a bug
-or incorporate enhancements is considered a derivative work of the product.
-Software that merely uses or aggregates (i.e. links to) an otherwise unmodified
-version of existing software is not considered a derivative work.
-
-# Contribution policy
+Contribution policy
+-------------------
 
 You can contribute to the NUBOMEDIA community through bug-reports, bug-fixes,
 new code or new documentation. For contributing to the NUBOMEDIA community,
@@ -81,17 +71,17 @@ with the following guidelines
   before it being incorporated into the NUBOMEDIA code-base. You must be ready
   to addressing all these kind of concerns before having your code approved.
 
-# Support
+Support
+-------
 
 The NUBOMEDIA community provides support through the [NUBOMEDIA Public Mailing List].
 
 [Development Guide]: http://nubomedia.readthedocs.org/
-[GitHub Issues]: https://github.com/tub-nubomedia/marketplace/issues
+[GitHub Issues]: https://github.com/nubomedia/bugtracker/issues
 [GitHub NUBOMEDIA Group]: https://github.com/nubomedia
-[LGPL v2.1 License]: http://www.gnu.org/licenses/lgpl-2.1.html
-[NUBOMEDIA Architecture]: http://www.nubomedia.eu/sites/default/files/images/nubomedia-arch-600.png
-[NUBOMEDIA D2.4.2]:http://www.nubomedia.eu/sites/default/deliverables/WP2/D2.4.2_Architecture_R6_V2_26-01-2016_FINAL-PC.pdf
+[MkDocs]: http://www.mkdocs.org/
 [NUBOMEDIA Logo]: http://www.nubomedia.eu/sites/default/files/nubomedia_logo-small.png
 [NUBOMEDIA Twitter]: https://twitter.com/nubomedia
 [NUBOMEDIA Public Mailing list]: https://groups.google.com/forum/#!forum/nubomedia-dev
 [NUBOMEDIA]: http://www.nubomedia.eu
+
