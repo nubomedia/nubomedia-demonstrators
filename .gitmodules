@@ -13,3 +13,6 @@
 [submodule "nubomedia-design"]
 	path = nubomedia-design
 	url = https://github.com/nubomedia/nubomedia-design
+[submodule "nubomedia-ouatservice-pre"]
+	path = nubomedia-ouatservice-pre
+	url = https://github.com/nubomedia/nubomedia-ouatservice-pre
