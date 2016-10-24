@@ -10,3 +10,6 @@
 [submodule "nubomedia-art"]
 	path = nubomedia-art
 	url = https://github.com/nubomedia/nubomedia-art
+[submodule "nubomedia-design"]
+	path = nubomedia-design
+	url = https://github.com/nubomedia/nubomedia-design
