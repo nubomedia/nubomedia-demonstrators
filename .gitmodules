@@ -7,3 +7,6 @@
 [submodule "nubomedia-magic-mirror"]
 	path = nubomedia-magic-mirror
 	url = https://github.com/nubomedia/nubomedia-magic-mirror
+[submodule "nubomedia-art"]
+	path = nubomedia-art
+	url = https://github.com/nubomedia/nubomedia-art
