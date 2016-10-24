@@ -19,3 +19,6 @@
 [submodule "nubomedia-ouatservice-dev"]
 	path = nubomedia-ouatservice-dev
 	url = https://github.com/nubomedia/nubomedia-ouatservice-dev
+[submodule "nubomedia-ouatservice"]
+	path = nubomedia-ouatservice
+	url = https://github.com/nubomedia/nubomedia-ouatservice
