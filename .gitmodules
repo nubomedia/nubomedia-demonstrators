@@ -25,3 +25,6 @@
 [submodule "nubomedia-kurento-health-communicator-android"]
 	path = nubomedia-kurento-health-communicator-android
 	url = https://github.com/nubomedia/nubomedia-kurento-health-communicator-android
+[submodule "nubomedia-kurento-health-communicator-ios"]
+	path = nubomedia-kurento-health-communicator-ios
+	url = https://github.com/nubomedia/nubomedia-kurento-health-communicator-ios
