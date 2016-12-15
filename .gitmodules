@@ -28,3 +28,6 @@
 [submodule "nubomedia-kurento-health-communicator-ios"]
 	path = nubomedia-kurento-health-communicator-ios
 	url = https://github.com/nubomedia/nubomedia-kurento-health-communicator-ios
+[submodule "nubomedia-kurento-health-communicator-server"]
+	path = nubomedia-kurento-health-communicator-server
+	url = https://github.com/nubomedia/nubomedia-kurento-health-communicator-server
